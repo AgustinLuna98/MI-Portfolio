@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/MI-Portfolio/static/css/main.11e27ac7.css",
-    "main.js": "/MI-Portfolio/static/js/main.5769342f.js",
+    "main.js": "/MI-Portfolio/static/js/main.7ed69b26.js",
     "static/js/787.128fc6e9.chunk.js": "/MI-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Goku-Black.png": "/MI-Portfolio/static/media/Goku-Black.b22ea1490c328986c140.png",
     "static/media/Goku-Black-about.png": "/MI-Portfolio/static/media/Goku-Black-about.35b125d107c0ea97b024.png",
-    "static/media/CV Agustin Luna.pdf": "/MI-Portfolio/static/media/CV Agustin Luna.b123ca7730403d1162e8.pdf",
+    "static/media/CV Agustin Luna.pdf": "/MI-Portfolio/static/media/CV Agustin Luna.481e849516b99c6ab51f.pdf",
     "index.html": "/MI-Portfolio/index.html",
     "main.11e27ac7.css.map": "/MI-Portfolio/static/css/main.11e27ac7.css.map",
-    "main.5769342f.js.map": "/MI-Portfolio/static/js/main.5769342f.js.map",
+    "main.7ed69b26.js.map": "/MI-Portfolio/static/js/main.7ed69b26.js.map",
     "787.128fc6e9.chunk.js.map": "/MI-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11e27ac7.css",
-    "static/js/main.5769342f.js"
+    "static/js/main.7ed69b26.js"
   ]
 }
