@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/MI-Portfolio/static/css/main.f8f2134e.css",
-    "main.js": "/MI-Portfolio/static/js/main.d20011ce.js",
+    "main.js": "/MI-Portfolio/static/js/main.bd894941.js",
     "static/js/787.128fc6e9.chunk.js": "/MI-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/GDD-Space-Cadet.pdf": "/MI-Portfolio/static/media/GDD-Space-Cadet.9f4cb0886e354f0863ae.pdf",
     "static/media/Goku-Black.png": "/MI-Portfolio/static/media/Goku-Black.b22ea1490c328986c140.png",
     "static/media/Space-Cadet-Img.PNG": "/MI-Portfolio/static/media/Space-Cadet-Img.8acd606f0039f683a1d6.PNG",
     "static/media/Goku-Black-about.png": "/MI-Portfolio/static/media/Goku-Black-about.35b125d107c0ea97b024.png",
+    "static/media/Mi-Portfolio-img.PNG": "/MI-Portfolio/static/media/Mi-Portfolio-img.7923d155b41fc9536192.PNG",
     "static/media/CV Agustin Luna.pdf": "/MI-Portfolio/static/media/CV Agustin Luna.481e849516b99c6ab51f.pdf",
     "index.html": "/MI-Portfolio/index.html",
     "main.f8f2134e.css.map": "/MI-Portfolio/static/css/main.f8f2134e.css.map",
-    "main.d20011ce.js.map": "/MI-Portfolio/static/js/main.d20011ce.js.map",
+    "main.bd894941.js.map": "/MI-Portfolio/static/js/main.bd894941.js.map",
     "787.128fc6e9.chunk.js.map": "/MI-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8f2134e.css",
-    "static/js/main.d20011ce.js"
+    "static/js/main.bd894941.js"
   ]
 }
