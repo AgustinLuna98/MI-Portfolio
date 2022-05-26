@@ -2,7 +2,7 @@ import React from "react";
 import "./experience.css";
 import { BsFillPatchCheckFill } from "react-icons/bs";
 
-const conotimientos = [
+const conocimientos = [
   { tipo: "frontend", name: "HTML", lvl: "Avanzados" },
   { tipo: "frontend", name: "CSS", lvl: "Intermedio" },
   { tipo: "frontend", name: "JavaScript", lvl: "Avanzados" },
@@ -24,7 +24,7 @@ const Experience = () => {
         <div className="experience-frontend">
           <h3>Frontend Development</h3>
           <div className="experience-content">
-            {conotimientos.map(({ tipo, name, lvl }) => {
+            {conocimientos.map(({ tipo, name, lvl }) => {
               let article;
               if (tipo === "frontend") {
                 article = (
@@ -44,9 +44,9 @@ const Experience = () => {
         <div className="esperience-backend">
           <h3>Backtend Development</h3>
           <div className="experience-content">
-            {conotimientos.map(({ tipo, name, lvl }) => {
+            {conocimientos.map(({ tipo, name, lvl }) => {
               let article;
-              if (tipo === "frontend") {
+              if (tipo === "backend") {
                 article = (
                   <article className="experience-details">
                     <BsFillPatchCheckFill className="experience-details-icon" />

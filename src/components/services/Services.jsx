@@ -33,7 +33,7 @@ const Services = () => {
           <div className="service-head">
             <h3>Colegio San Jose N°2043</h3>
 
-            <h5>Desarrollador de Software</h5>
+            <h5>Tecnico informatico</h5>
           </div>
           <ul className="service-list">
             {sanjo.map((text) => {
