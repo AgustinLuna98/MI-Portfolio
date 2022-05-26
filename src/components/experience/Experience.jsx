@@ -25,8 +25,9 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience-content">
             {conotimientos.map(({ tipo, name, lvl }) => {
+              let article;
               if (tipo === "frontend") {
-                return (
+                article = (
                   <article className="experience-details">
                     <BsFillPatchCheckFill className="experience-details-icon" />
                     <div>
@@ -36,6 +37,7 @@ const Experience = () => {
                   </article>
                 );
               }
+              return article;
             })}
           </div>
         </div>
@@ -43,8 +45,9 @@ const Experience = () => {
           <h3>Backtend Development</h3>
           <div className="experience-content">
             {conotimientos.map(({ tipo, name, lvl }) => {
-              if (tipo === "backend") {
-                return (
+              let article;
+              if (tipo === "frontend") {
+                article = (
                   <article className="experience-details">
                     <BsFillPatchCheckFill className="experience-details-icon" />
                     <div>
@@ -54,6 +57,7 @@ const Experience = () => {
                   </article>
                 );
               }
+              return article;
             })}
           </div>
         </div>

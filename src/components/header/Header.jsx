@@ -7,7 +7,7 @@ import GB from '../../assets/Goku-Black.png'
 const Header = () => {
   return (
     <header id="">
-      <div className="conteiner header-container">
+      <div className="container header-container">
         
         <h5>Hola yo soy</h5>
         <h1>Agustín Luna</h1>
