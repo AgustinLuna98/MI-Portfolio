@@ -11,7 +11,7 @@ const Header = () => {
         
         <h5>Hola yo soy</h5>
         <h1>Agustín Luna</h1>
-        <h5 className="text-light">Desarrollador FullStak</h5>
+        <h5 className="text-light">Desarrollador FullStack</h5>
         <CTA />
         <HeaderSocial />
         <a href="#contact" className="scroll-down">Scroll down</a>
